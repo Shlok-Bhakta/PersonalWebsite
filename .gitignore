@@ -3,6 +3,7 @@ node_modules
 /build
 /.svelte-kit
 /package
+/.devcontainer
 .env
 .env.*
 !.env.example
@@ -10,4 +11,3 @@ node_modules
 .output
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-/.devcontainer
